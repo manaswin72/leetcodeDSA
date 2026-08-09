@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [2235-add-two-integers](https://github.com/manaswin72/leetcodeDSA/tree/master/2235-add-two-integers) |
+| [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/manaswin72/leetcodeDSA/tree/master/0058-length-of-last-word) |
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/manaswin72/leetcodeDSA/tree/master/0709-to-lower-case) |
+| [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
+| [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
