@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/manaswin72/leetcodeDSA/tree/master/0182-duplicate-emails) |
 | [1148-article-views-i](https://github.com/manaswin72/leetcodeDSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/manaswin72/leetcodeDSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
