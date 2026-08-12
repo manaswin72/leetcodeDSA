@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/manaswin72/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/manaswin72/leetcodeDSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/manaswin72/leetcodeDSA/tree/master/0643-maximum-average-subarray-i) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
