@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [2119-a-number-after-a-double-reversal](https://github.com/manaswin72/leetcodeDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/manaswin72/leetcodeDSA/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/manaswin72/leetcodeDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
