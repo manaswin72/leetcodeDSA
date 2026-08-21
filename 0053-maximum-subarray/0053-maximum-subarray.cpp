@@ -15,7 +15,6 @@ for(int i =1 ; i < nums.size(); i++ ){
       //Kadanes's algorithm
       return global_Max;
 
-      
         
     }
-};
+}; 
