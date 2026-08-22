@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/manaswin72/leetcodeDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/manaswin72/leetcodeDSA/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/manaswin72/leetcodeDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manaswin72/leetcodeDSA/tree/master/0011-container-with-most-water) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
 | ------- |
