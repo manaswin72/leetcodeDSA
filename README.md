@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manaswin72/leetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/manaswin72/leetcodeDSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/manaswin72/leetcodeDSA/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/manaswin72/leetcodeDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/manaswin72/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/manaswin72/leetcodeDSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manaswin72/leetcodeDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manaswin72/leetcodeDSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
