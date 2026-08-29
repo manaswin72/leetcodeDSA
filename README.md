@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manaswin72/leetcodeDSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manaswin72/leetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/manaswin72/leetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manaswin72/leetcodeDSA/tree/master/0118-pascals-triangle) |
