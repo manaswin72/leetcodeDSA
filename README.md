@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
