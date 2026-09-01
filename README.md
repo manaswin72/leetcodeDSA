@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manaswin72/leetcodeDSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manaswin72/leetcodeDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/manaswin72/leetcodeDSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manaswin72/leetcodeDSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/manaswin72/leetcodeDSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/manaswin72/leetcodeDSA/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
