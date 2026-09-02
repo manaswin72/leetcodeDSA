@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/manaswin72/leetcodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
 ## Database
 |  |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/manaswin72/leetcodeDSA/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/manaswin72/leetcodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
