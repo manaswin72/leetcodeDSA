@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/manaswin72/leetcodeDSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manaswin72/leetcodeDSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/manaswin72/leetcodeDSA/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
