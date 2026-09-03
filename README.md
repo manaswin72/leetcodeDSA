@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manaswin72/leetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/manaswin72/leetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/manaswin72/leetcodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
