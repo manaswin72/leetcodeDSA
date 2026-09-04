@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manaswin72/leetcodeDSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/manaswin72/leetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manaswin72/leetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manaswin72/leetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manaswin72/leetcodeDSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/manaswin72/leetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/manaswin72/leetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/manaswin72/leetcodeDSA/tree/master/0392-is-subsequence) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
 ## String Matching
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
