@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/manaswin72/leetcodeDSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0853-car-fleet](https://github.com/manaswin72/leetcodeDSA/tree/master/0853-car-fleet) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1313-decompress-run-length-encoded-list](https://github.com/manaswin72/leetcodeDSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
