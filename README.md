@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manaswin72/leetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manaswin72/leetcodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manaswin72/leetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manaswin72/leetcodeDSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Backtracking
