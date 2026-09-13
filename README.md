@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/manaswin72/leetcodeDSA/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/manaswin72/leetcodeDSA/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/manaswin72/leetcodeDSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manaswin72/leetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/manaswin72/leetcodeDSA/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/manaswin72/leetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manaswin72/leetcodeDSA/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/manaswin72/leetcodeDSA/tree/master/0853-car-fleet) |
 ## Bracket Sequences
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
