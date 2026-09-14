@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/manaswin72/leetcodeDSA/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/manaswin72/leetcodeDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 ## Counting
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 ## Euclidean Algorithm
 |  |
 | ------- |
