@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/manaswin72/leetcodeDSA/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
+| [3838-weighted-word-mapping](https://github.com/manaswin72/leetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3838-weighted-word-mapping](https://github.com/manaswin72/leetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/manaswin72/leetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
