@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/manaswin72/leetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manaswin72/leetcodeDSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/manaswin72/leetcodeDSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manaswin72/leetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manaswin72/leetcodeDSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/manaswin72/leetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manaswin72/leetcodeDSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manaswin72/leetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manaswin72/leetcodeDSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/manaswin72/leetcodeDSA/tree/master/0055-jump-game) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
