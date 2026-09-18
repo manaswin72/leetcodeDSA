@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manaswin72/leetcodeDSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manaswin72/leetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/manaswin72/leetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/manaswin72/leetcodeDSA/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/manaswin72/leetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/manaswin72/leetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manaswin72/leetcodeDSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manaswin72/leetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/manaswin72/leetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manaswin72/leetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manaswin72/leetcodeDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
