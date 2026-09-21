@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/manaswin72/leetcodeDSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manaswin72/leetcodeDSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/manaswin72/leetcodeDSA/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/manaswin72/leetcodeDSA/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/manaswin72/leetcodeDSA/tree/master/0876-middle-of-the-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/manaswin72/leetcodeDSA/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manaswin72/leetcodeDSA/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/manaswin72/leetcodeDSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/manaswin72/leetcodeDSA/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/manaswin72/leetcodeDSA/tree/master/2460-apply-operations-to-an-array) |
 | [3838-weighted-word-mapping](https://github.com/manaswin72/leetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
