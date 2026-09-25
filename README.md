@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/manaswin72/leetcodeDSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/manaswin72/leetcodeDSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/manaswin72/leetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3894-traffic-signal-color](https://github.com/manaswin72/leetcodeDSA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manaswin72/leetcodeDSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/manaswin72/leetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/manaswin72/leetcodeDSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manaswin72/leetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2965-find-missing-and-repeated-values](https://github.com/manaswin72/leetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manaswin72/leetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [2614-prime-in-diagonal](https://github.com/manaswin72/leetcodeDSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/manaswin72/leetcodeDSA/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/manaswin72/leetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
