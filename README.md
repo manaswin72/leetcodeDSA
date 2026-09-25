@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manaswin72/leetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/manaswin72/leetcodeDSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/manaswin72/leetcodeDSA/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/manaswin72/leetcodeDSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manaswin72/leetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/manaswin72/leetcodeDSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manaswin72/leetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/manaswin72/leetcodeDSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manaswin72/leetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/manaswin72/leetcodeDSA/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/manaswin72/leetcodeDSA/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaswin72/leetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manaswin72/leetcodeDSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
